@@ -17,10 +17,10 @@ Caso alguém queira dar continuidade basta informar.
      * [x] Obter informações por XML
   * [x] Editar (Com bug)
   * [ ] Deletar
-* [ ] Compras
+* [X] Compras
    * [ ] Listagem
    * [ ] Visão Específica
-   * [ ] Adicionar (Incompleto)
+   * [X] Adicionar (Incompleto)
    * [ ] Editar (Com bug)
    * [ ] Deletar
 * [ ] Financeiro
