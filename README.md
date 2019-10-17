@@ -1,5 +1,9 @@
-# ERP
+# ERP - Incompleto
 Desenvolvido com CodeIgniter 3.1.9
+
+Projeto abandonado de Gestão ERP, mas acabei ficando sem tempo para finalizá-lo.
+Caso alguém queira dar continuidade basta informar.
+
 
 ## Manual
 Para usá-lo basta: 
@@ -7,4 +11,4 @@ Para usá-lo basta:
 - Adicionar sua URL em "application/config/database.php"
 - Importar o arquivo "erp.sql" que consta na pasta ROOT para seu BD
 
-E pronto! Tenha bom uso (:
+E pronto! Faça bom uso (:
