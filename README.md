@@ -14,7 +14,7 @@ Caso alguém queira dar continuidade basta informar.
   * [x] Listagem
   * [x] Visão Específica
   * [x] Adicionar (Com Bug)
-        * [x] Obter informações por XML
+     * [x] Obter informações por XML
   * [x] Editar (Com bug)
   * [ ] Deletar
 * [ ] Compras
