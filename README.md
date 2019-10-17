@@ -17,8 +17,8 @@ Caso alguém queira dar continuidade basta informar.
      * [x] Obter informações por XML
   * [x] Editar (Com bug)
   * [ ] Deletar
-* [X] Compras
-   * [ ] Listagem
+* [x] Compras
+   * [x] Listagem (Incompleto)
    * [ ] Visão Específica
    * [X] Adicionar (Incompleto)
    * [ ] Editar (Com bug)
@@ -27,10 +27,10 @@ Caso alguém queira dar continuidade basta informar.
    * [ ] Pagar
    * [ ] Receber
    * [ ] Cheques Emitidos
-* [X] Produtos
-   * [X] Listagem
+* [x] Produtos
+   * [x] Listagem
    * [ ] Visão Específica
-   * [X] Adicionar (Bug HTML)
+   * [x] Adicionar (Bug HTML)
    * [ ] Editar
    * [ ] Deletar
 
