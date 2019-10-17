@@ -5,7 +5,7 @@ Projeto abandonado de Gestão ERP, mas acabei ficando sem tempo para finalizá-l
 Caso alguém queira dar continuidade basta informar.
 
 
-## Recursos Prontos
+## Recursos
 
 * [x] Sistema de Login
     * [ ] Esqueceu a Senha.
