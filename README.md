@@ -31,7 +31,7 @@ Caso alguém queira dar continuidade basta informar.
    * [X] Listagem
    * [ ] Visão Específica
    * [X] Adicionar (Bug HTML)
-   * [ ] Editar (Com bug)
+   * [ ] Editar
    * [ ] Deletar
 
 ## Manual
